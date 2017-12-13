@@ -57,6 +57,7 @@ var selectedArtists = [
 	"Christopher Gurusamy",
 	"Christopher Guruswamy",
 	"Dakshina Vaidyanathan",
+	"Deepa Raghavan",
 	"Vyjayanthimala Bali",
 	"Harinie Jeevitha",
 	"Jai Quehaeni",
