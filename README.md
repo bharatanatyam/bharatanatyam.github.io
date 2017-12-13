@@ -1,2 +1,2 @@
 # calendar
-Bharatanatyam Calendar
+Bharatanatyam Dance Calendar
