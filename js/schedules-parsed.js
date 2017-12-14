@@ -2904,19 +2904,28 @@ var globEvents=
   {
     "where": "bk",
     "who": [
-      "Sukanya Kumar"
+      "Yashaswini Iyer"
     ],
     "info": "",
     "lineNo": 1201,
+    "when": 1515074400000
+  },
+  {
+    "where": "bk",
+    "who": [
+      "Sukanya Kumar"
+    ],
+    "info": "",
+    "lineNo": 1204,
     "when": 1515151800000
   },
   {
     "where": "bk",
     "who": [
-      "Sivakamiyin Sabhatham - Madurai R Muralidharan"
+      "Madurai R Muralidharan"
     ],
-    "info": "",
-    "lineNo": 1204,
+    "info": "Sivakamiyin Sabhatham",
+    "lineNo": 1207,
     "when": 1515160800000
   },
   {
@@ -2925,8 +2934,17 @@ var globEvents=
       "Rithwika Ghosh"
     ],
     "info": "",
-    "lineNo": 1207,
+    "lineNo": 1210,
     "when": 1515236400000
+  },
+  {
+    "where": "bk",
+    "who": [
+      "Krithika Subramaniam"
+    ],
+    "info": "",
+    "lineNo": 1213,
+    "when": 1515332700000
   },
   {
     "where": "bk",
@@ -2934,7 +2952,7 @@ var globEvents=
       "Niveditha Gopinath"
     ],
     "info": "",
-    "lineNo": 1210,
+    "lineNo": 1216,
     "when": 1515411000000
   },
   {
@@ -2943,7 +2961,7 @@ var globEvents=
       "Alarmel Valli"
     ],
     "info": "",
-    "lineNo": 1213,
+    "lineNo": 1219,
     "when": 1513431900000
   },
   {
@@ -2952,7 +2970,7 @@ var globEvents=
       "Meenakshi Srinivasan"
     ],
     "info": "",
-    "lineNo": 1216,
+    "lineNo": 1222,
     "when": 1513518300000
   },
   {
@@ -2961,7 +2979,7 @@ var globEvents=
       "Nirupama Vaidyanathan"
     ],
     "info": "",
-    "lineNo": 1219,
+    "lineNo": 1225,
     "when": 1513605600000
   },
   {
@@ -2970,7 +2988,7 @@ var globEvents=
       "Srividhya Sailesh"
     ],
     "info": "",
-    "lineNo": 1222,
+    "lineNo": 1228,
     "when": 1513692000000
   },
   {
@@ -2979,16 +2997,16 @@ var globEvents=
       "Shobana"
     ],
     "info": "",
-    "lineNo": 1225,
+    "lineNo": 1231,
     "when": 1513864800000
   },
   {
     "where": "bk",
     "who": [
-      "Amrapali By Sreekala Bharath"
+      "Sreekala Bharath"
     ],
     "info": "",
-    "lineNo": 1228,
+    "lineNo": 1234,
     "when": 1513951200000
   },
   {
@@ -2997,7 +3015,7 @@ var globEvents=
       "Vyjayanthimala Bali"
     ],
     "info": "",
-    "lineNo": 1231,
+    "lineNo": 1237,
     "when": 1514036700000
   },
   {
@@ -3006,7 +3024,7 @@ var globEvents=
       "Malavika Sarukkai"
     ],
     "info": "",
-    "lineNo": 1234,
+    "lineNo": 1240,
     "when": 1514208600000
   },
   {
@@ -3015,7 +3033,7 @@ var globEvents=
       "Priyadarsini Govind"
     ],
     "info": "",
-    "lineNo": 1237,
+    "lineNo": 1243,
     "when": 1514295000000
   },
   {
@@ -3025,7 +3043,7 @@ var globEvents=
       "Natya Sankalpaa"
     ],
     "info": "",
-    "lineNo": 1240,
+    "lineNo": 1246,
     "when": 1514467800000
   },
   {
@@ -3034,26 +3052,25 @@ var globEvents=
       "Disciples Of Padmalakshme Suresh"
     ],
     "info": "",
-    "lineNo": 1243,
-    "when": 1514554200000
+    "lineNo": 1249,
+    "when": 1514565000000
   },
   {
     "where": "bk",
     "who": [
-      "Krishnakumari Narendran - Aadal Vallanum Arangathammanum"
+      "Krishnakumari Narendra"
     ],
-    "info": "",
-    "lineNo": 1246,
+    "info": "Aadal Vallanum Arangathammanum",
+    "lineNo": 1252,
     "when": 1514727900000
   },
   {
     "where": "bk",
     "who": [
-      "Padmini Krishnamurthy",
-      "Troupe - Narayanayeti Samarpayami"
+      "Padmini Krishnamurthy & Troupe"
     ],
-    "info": "",
-    "lineNo": 1249,
+    "info": "Narayanayeti Samarpayami",
+    "lineNo": 1255,
     "when": 1514814300000
   },
   {
@@ -3062,7 +3079,7 @@ var globEvents=
       "Vidya Ravindran"
     ],
     "info": "",
-    "lineNo": 1252,
+    "lineNo": 1258,
     "when": 1515506400000
   },
   {
@@ -3071,7 +3088,7 @@ var globEvents=
       "Deepthi Ravi"
     ],
     "info": "",
-    "lineNo": 1255,
+    "lineNo": 1261,
     "when": 1515592800000
   },
   {
@@ -3080,7 +3097,7 @@ var globEvents=
       "Archana Narayanamurthy"
     ],
     "info": "",
-    "lineNo": 1258,
+    "lineNo": 1264,
     "when": 1515670200000
   },
   {
@@ -3089,7 +3106,7 @@ var globEvents=
       "Pavithra Srinivasan"
     ],
     "info": "",
-    "lineNo": 1261,
+    "lineNo": 1267,
     "when": 1515679200000
   },
   {
@@ -3098,7 +3115,7 @@ var globEvents=
       "Irshika"
     ],
     "info": "",
-    "lineNo": 1264,
+    "lineNo": 1270,
     "when": 1515765600000
   },
   {
@@ -3107,7 +3124,7 @@ var globEvents=
       "Suthikshna Veeravalli"
     ],
     "info": "",
-    "lineNo": 1267,
+    "lineNo": 1273,
     "when": 1515839400000
   },
   {
@@ -3117,7 +3134,7 @@ var globEvents=
       "Cleveland Aradhana"
     ],
     "info": "",
-    "lineNo": 1270,
+    "lineNo": 1276,
     "when": 1515848400000
   },
   {
@@ -3126,7 +3143,7 @@ var globEvents=
       "Lakshmi Ramaswamy"
     ],
     "info": "",
-    "lineNo": 1273,
+    "lineNo": 1279,
     "when": 1515938400000
   }
 ]
